@@ -17,7 +17,7 @@
 
 ## (Assignment 1) 
  -[Using moveit setup assistant to visualize Universal robot in RVIZ](https://github.com/Alie20/Phi_Path_Planning-moveit/tree/main/Assignment1)
-### [Assignment_1 Solution]()
+### [Assignment_1 Solution](https://github.com/Alie20/Phi_Path_Planning-moveit/tree/main/Assignment1/Solution/ur5_gripper_moveit_config)
 
 
               
