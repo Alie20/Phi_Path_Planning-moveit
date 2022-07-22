@@ -1,24 +1,23 @@
 # Phi_Path_Planning-moveit
 
-![image](https://github.com/Alie20/phi_ros_essentials/blob/main/Screenshot%20from%202022-05-24%2023-02-09.png)
+![image](https://github.com/Alie20/Phi_Path_Planning-moveit/blob/main/download.png)
 
 ## Contents
 
 ### Lecture 1 : 
+               - Introduction on Path planning and how to use in final project 
                - Install Moveit
-               - Create Workspace and package
-               - Learn the basic command line 
+              
 ### Lecture 2 : 
-               - How to write node
-               - How to write publisher node
-               - How to wrtie subscriber node 
-               - How to create a message Type (part1)
+               - Use moveit_setup_assistant 
+               - Moveit API
+               - OMPL 
 
 ## Assignments 
 
 ## (Assignment 1) 
- -[Basic commands for Ros](https://github.com/Alie20/phi_ros_essentials/blob/main/Assignment1/Assignment_1.pdf)
-### [Assignment_1 Solution](https://github.com/Alie20/phi_ros_essentials/blob/main/Assignment1/solution.pdf)
+ -[Using moveit setup assistant to visualize Universal robot in RVIZ](https://github.com/Alie20/Phi_Path_Planning-moveit/tree/main/Assignment1)
+### [Assignment_1 Solution]()
 
 
               
