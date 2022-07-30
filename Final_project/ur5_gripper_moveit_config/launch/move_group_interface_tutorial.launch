@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="moveit_group_interface" pkg="ur5_gripper_moveit_config" type="moveit_group_interface" respawn="false" output="screen">
+  </node>
+
+</launch>
