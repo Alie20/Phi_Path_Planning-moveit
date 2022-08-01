@@ -25,7 +25,18 @@
   roslaunch ur5_gripper_moveit_config demo.launch 
 ```
 
+## (Assignment 2) 
+ -[ Using moveit setup assistant to visualize Universal robot in RVIZ , Add Box object then attached it with gripper](https://github.com/Alie20/Phi_Path_Planning-moveit/blob/main/Assignment2/Assignment_2.pdf)
+### [Assignment_2 Solution](https://github.com/Alie20/Phi_Path_Planning-moveit/tree/main/Assignment2/ur5_gripper_moveit_config)
+![image](https://github.com/Alie20/Phi_Path_Planning-moveit/blob/main/Images/Screenshot%20from%202022-08-01%2014-42-34.png)
 
+#### Run The project by writing the following command 
+```
+  roslaunch ur5_gripper_moveit_config demo.launch
+  
+  roslaunch ur5_gripper_moveit_config planning_scene_ros_api.launch 
+
+```
 
 
 
