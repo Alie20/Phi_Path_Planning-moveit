@@ -1,6 +1,0 @@
-<launch>
-
-  <node name="planning_scene_ros_api" pkg="ur5_gripper_moveit_config" type="planning_scene_ros_api" respawn="false" output="screen">
-  </node>
-
-</launch>
