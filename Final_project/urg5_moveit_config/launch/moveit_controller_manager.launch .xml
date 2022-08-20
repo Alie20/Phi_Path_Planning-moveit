@@ -1,0 +1,8 @@
+<launch>
+	<!-- Define MoveIt controller manager plugin -->
+	<!--<param name="moveit_controller_manager" value="moveit_ros_control_interface::MoveItControllerManager" />-->
+	<rosparam file="$(find urg5_moveit_config)/config/controllers.yaml"/>
+	<param name="use_controller_manger" value="false"/>
+	<param name="trajectory_execution_duration_monitoring" value="false"/>
+	<param name="moveit_controller_manger" value="moveit_simple_controller_mnager/MobeItSimpleControllerManger"/>
+</launch>

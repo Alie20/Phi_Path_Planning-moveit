@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+  
+  <node name="arm_pick_place" pkg="urg5_moveit_config" type="arm_pick_place"  />
+    <!--<node name="pickandplace" pkg="urg5_moveit_config" type="pickandplace.py"  />-->
+
+</launch>
